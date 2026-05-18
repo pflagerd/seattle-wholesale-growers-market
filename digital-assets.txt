@@ -9,6 +9,7 @@ godaddy.com
         Is there email associated with it?
 
 hostgator.com
+    wordpress site hosted
 
 squarespace.com
     seattlegrowersmarket.com - connected
